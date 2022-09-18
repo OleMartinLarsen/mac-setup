@@ -19,3 +19,4 @@ dash
 notion
 authy
 pocket-casts
+spotify
