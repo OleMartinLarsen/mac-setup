@@ -18,3 +18,4 @@ mos
 dash
 notion
 authy
+pocket-casts
