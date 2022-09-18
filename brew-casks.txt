@@ -10,3 +10,4 @@ kap
 gimp
 visual-studio-code
 insomnia
+cameracontroller
