@@ -20,3 +20,4 @@ notion
 authy
 pocket-casts
 spotify
+google-chrome
