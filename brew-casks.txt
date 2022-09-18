@@ -16,3 +16,4 @@ stats
 bartender
 mos
 dash
+notion
