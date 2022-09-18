@@ -1,0 +1,12 @@
+iterm2
+alfred
+alt-tab
+app-cleaner
+slack
+discord
+vlc
+keka
+kap
+gimp
+visual-studio-code
+insomnia
