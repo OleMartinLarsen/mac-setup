@@ -11,3 +11,4 @@ gimp
 visual-studio-code
 insomnia
 cameracontroller
+flux
