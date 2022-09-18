@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Mac Setup](#mac-setup)
+- [Homebrew / Terminal / Shell](#homebrew--terminal--shell)
+- [Terminal](#terminal)
+  - [Other](#other)
+- [Finder](#finder)
+- [Alfred](#alfred)
+  - [Workflows](#workflows)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Mac Setup
 
 **Specs:** Macbook Pro 16 M1 Pro, 16GB, 1TB
