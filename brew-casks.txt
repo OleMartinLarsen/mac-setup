@@ -1,6 +1,7 @@
 iterm2
 alfred
 alt-tab
+1password
 app-cleaner
 slack
 discord
