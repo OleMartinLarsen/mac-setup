@@ -4,8 +4,9 @@
 
 - [Mac Setup](#mac-setup)
 - [Homebrew / Terminal / Shell](#homebrew--terminal--shell)
-- [Terminal](#terminal)
-  - [Other](#other)
+  - [Homebrew](#homebrew)
+  - [Terminal](#terminal)
+  - [Shell](#shell)
 - [Finder](#finder)
 - [Alfred](#alfred)
   - [Workflows](#workflows)
@@ -17,6 +18,8 @@
 **Specs:** Macbook Pro 16 M1 Pro, 16GB, 1TB
 
 ## Homebrew / Terminal / Shell
+
+### Homebrew
 
 [Homebrew](https://brew.sh/) to install tools and apps from the command line.
 
@@ -30,7 +33,7 @@ This will also install the xcode build tools.
 
 _Remember to add it to path if you are on a Apple Silicone machine_
 
-## Terminal
+### Terminal
 
 Replace the built-in terminal with iTerm2.
 
@@ -57,7 +60,7 @@ Once installed, launch it and customize the settings / preferences to your likin
     * Keys -> Key Mappings -> Presets -> Natural Text Editing
       * This allows me to use the [keyboard shortcuts](https://gist.github.com/w3cj/022081eda22081b82c52) I know and love inside of iTerm2
 
-### Other
+### Shell
 
 * Install Oh My Zsh, docs [here](https://github.com/ohmyzsh/ohmyzsh/wiki).
   * Config file in repo, file _.zshrc_
