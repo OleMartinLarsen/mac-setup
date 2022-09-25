@@ -1,5 +1,5 @@
 iterm2
-alfred
+raycast
 alt-tab
 1password
 1password-cli
