@@ -23,3 +23,8 @@ authy
 pocket-casts
 spotify
 google-chrome
+background-music
+betterdisplay
+rocket
+soundsource
+silicon-info
