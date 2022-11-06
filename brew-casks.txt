@@ -28,3 +28,4 @@ betterdisplay
 rocket
 soundsource
 silicon-info
+aldente
