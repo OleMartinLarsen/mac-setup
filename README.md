@@ -1,7 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+## TOC
 - [Mac Setup](#mac-setup)
 - [Homebrew / Terminal / Shell](#homebrew--terminal--shell)
   - [Homebrew](#homebrew)
@@ -85,20 +85,3 @@ curl -sS https://starship.rs/install.sh | sh
 * View -> Show Status Bar
 * View -> Show Tab Bar
 * Advanced -> Show file extensions
-
-## Alfred
-
-Download Alfred.
-
-```
-brew install alfred
-```
-
-Add iTerm2 for terminal commands, find script [here](https://github.com/vitorgalvao/custom-alfred-iterm-scripts)
-
-### Workflows
-
-* [1Password](https://github.com/alfredapp/1password-workflow#readme)
-* [Dash](https://github.com/Kapeli/Dash-Alfred-Workflow)
-* [Currency Converter](https://github.com/sqren/alfred-currency)
-* [Emoji Search](https://github.com/jsumners/alfred-emoji)
